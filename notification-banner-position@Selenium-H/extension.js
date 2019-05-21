@@ -5,8 +5,8 @@ const Main = imports.ui.main;
 
 function enable() 
 {
-        right();       // Puts Notification Baner to Right
-        //left()         // Puts Notification nammer to left
+        right();       // Puts Notification Banner to Right
+        //left()       // Puts Notification Banmer to left
 }
 
 function disable() 
